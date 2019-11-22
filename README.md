@@ -2,5 +2,5 @@
 description: I take notes when I learn new things in part time.
 ---
 
-# Study Notes
+# My Notebook
 
