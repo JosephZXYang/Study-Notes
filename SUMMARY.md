@@ -9,6 +9,7 @@
   * [2. Introduction to Front-End Development](the-web-developer-bootcamp/2.-introduction-to-front-end-development.md)
   * [3. Introduction to HTML](the-web-developer-bootcamp/3.-introduction-to-html.md)
   * [4. Intermediate HTML](the-web-developer-bootcamp/4.-intermediate-html.md)
+  * [5. Introduction to CSS](the-web-developer-bootcamp/5.-introduction-to-css.md)
 
 ## Machine Learning
 
