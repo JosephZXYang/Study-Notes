@@ -10,3 +10,8 @@
   * [3. Introduction to HTML](the-web-developer-bootcamp/3.-introduction-to-html.md)
   * [4. Intermediate HTML](the-web-developer-bootcamp/4.-intermediate-html.md)
 
+## Machine Learning
+
+* [Machine Learning](machine-learning/machine-learning/README.md)
+  * [1. Introduction](machine-learning/machine-learning/1.-introduction.md)
+
