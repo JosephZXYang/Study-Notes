@@ -10,6 +10,7 @@
   * [3. Introduction to HTML](the-web-developer-bootcamp/3.-introduction-to-html.md)
   * [4. Intermediate HTML](the-web-developer-bootcamp/4.-intermediate-html.md)
   * [5. Introduction to CSS](the-web-developer-bootcamp/5.-introduction-to-css.md)
+  * [6. Intermediate CSS](the-web-developer-bootcamp/6.-intermediate-css.md)
 
 ## Machine Learning
 
