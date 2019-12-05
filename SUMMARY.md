@@ -17,4 +17,5 @@
 
 * [Machine Learning](machine-learning/machine-learning/README.md)
   * [1. Introduction](machine-learning/machine-learning/1.-introduction.md)
+  * [2. Linear Regression with Multiple Variables](machine-learning/machine-learning/2.-linear-regression-with-multiple-variables.md)
 
