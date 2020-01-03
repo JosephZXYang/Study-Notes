@@ -15,6 +15,7 @@
   * [8. Bootstrap 4](the-web-developer-bootcamp/8.-bootstrap-4.md)
   * [9. Bootstrap 4: Flexbox and Layout](the-web-developer-bootcamp/9.-bootstrap-4-flexbox-and-layout.md)
   * [10. Introduction to JavaScript](the-web-developer-bootcamp/10.-introduction-to-javascript.md)
+  * [11. JavaScript Basics](the-web-developer-bootcamp/11.-javascript-basics.md)
 
 ## Machine Learning
 
