@@ -20,6 +20,7 @@
   * [13. JavaScript Arrays](the-web-developer-bootcamp/13.-javascript-arrays.md)
   * [14. JavaScript Objects](the-web-developer-bootcamp/14.-javascript-objects.md)
   * [15. DOM Manipulation](the-web-developer-bootcamp/15.-dom-manipulation.md)
+  * [16. Advanced DOM Manipulation](the-web-developer-bootcamp/16.-advanced-dom-manipulation.md)
 
 ## Machine Learning
 
