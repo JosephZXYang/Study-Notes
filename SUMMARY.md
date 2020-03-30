@@ -23,6 +23,7 @@
   * [16. Advanced DOM Manipulation](the-web-developer-bootcamp/16.-advanced-dom-manipulation.md)
   * [18. Introduction to jQuery](the-web-developer-bootcamp/18.-introduction-to-jquery.md)
   * [19. Advanced jQuery](the-web-developer-bootcamp/19.-advanced-jquery.md)
+  * [22. Backend Basics](the-web-developer-bootcamp/22.-backend-basics.md)
 
 ## Machine Learning
 
