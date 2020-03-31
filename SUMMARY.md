@@ -24,6 +24,8 @@
   * [18. Introduction to jQuery](the-web-developer-bootcamp/18.-introduction-to-jquery.md)
   * [19. Advanced jQuery](the-web-developer-bootcamp/19.-advanced-jquery.md)
   * [22. Backend Basics](the-web-developer-bootcamp/22.-backend-basics.md)
+  * [23. The Command Line](the-web-developer-bootcamp/23.-the-command-line.md)
+  * [24. Node JS](the-web-developer-bootcamp/24.-node-js.md)
 
 ## Machine Learning
 
