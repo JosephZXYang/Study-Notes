@@ -31,4 +31,5 @@
   * [1. Introduction](machine-learning/machine-learning/1.-introduction.md)
   * [2. Linear Regression with Multiple Variables](machine-learning/machine-learning/2.-linear-regression-with-multiple-variables.md)
   * [3. Logistic Regression and Regularization](machine-learning/machine-learning/3.-logistic-regression-and-regularization.md)
+  * [4. Nonlinear Hypotheses](machine-learning/machine-learning/4.-nonlinear-hypotheses.md)
 
