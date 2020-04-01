@@ -41,4 +41,5 @@
 * [Financial Markets](finance-economics/financial-markets/README.md)
   * [Lesson 1](finance-economics/financial-markets/lecture-1-welcome.md)
   * [Lesson 2](finance-economics/financial-markets/lesson-2.md)
+  * [Lesson 3](finance-economics/financial-markets/lesson-3.md)
 
