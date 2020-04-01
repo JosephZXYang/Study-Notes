@@ -33,7 +33,7 @@
 ## Quiz
 
 1. Risk pooling is most effective when the individual events are **independent**.
-2. **Insurance salesman** \(explaining the benefits of life insurance to people who didn't know\), **new sales pitch** \(explaining to housewives without probability theory, which was formerly used\) and **XXX** are main factors that led to the proliferation of life insurance.
+2. **Insurance salesman** \(explaining the benefits of life insurance to people who didn't know\), **new sales pitch** \(explaining to housewives without probability theory, which was formerly used\) and **statistical data on life expectancy** are main factors that led to the proliferation of life insurance. Now we **don't need life insurance because people now live longer** \(goal of life insurance is to **prevent someone losing his or her parent when he or she is young**.
 3. In U.S., when an insurance company goes bankrupt, the customers are insured from company failure at the **state** level
 4. The Obamacare attempted to address the **selection bias** by **forcing everyone to buy health insurance, or else receive penalty**.
 5. One main reason why house-owners in Louisiana did not have flood insurance before the advent of Katarina Hurricane was because many insurance companies in Louisiana **raised the insurance premium due to fear of hurricanes**.
