@@ -44,4 +44,6 @@
   * [Lesson 2](finance-economics/financial-markets/lesson-2.md)
   * [Lesson 3](finance-economics/financial-markets/lesson-3.md)
   * [Lesson 4](finance-economics/financial-markets/lesson-4.md)
+  * [Lesson 5](finance-economics/financial-markets/lesson-5.md)
+  * [Lesson 6](finance-economics/financial-markets/lesson-6.md)
 
