@@ -27,6 +27,7 @@
   * [23. The Command Line](the-web-developer-bootcamp/23.-the-command-line.md)
   * [24. Node JS](the-web-developer-bootcamp/24.-node-js.md)
   * [25. Server Side Frameworks](the-web-developer-bootcamp/25.-server-side-frameworks.md)
+  * [27. API](the-web-developer-bootcamp/27.-api.md)
 
 ## Machine Learning
 
