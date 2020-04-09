@@ -28,6 +28,7 @@
   * [24. Node JS](the-web-developer-bootcamp/24.-node-js.md)
   * [25. Server Side Frameworks](the-web-developer-bootcamp/25.-server-side-frameworks.md)
   * [27. API](the-web-developer-bootcamp/27.-api.md)
+  * [29. Database](the-web-developer-bootcamp/29.-database.md)
 
 ## Machine Learning
 
