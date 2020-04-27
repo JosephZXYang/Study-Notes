@@ -39,6 +39,7 @@
   * [4. Nonlinear Hypotheses](machine-learning/machine-learning/4.-nonlinear-hypotheses.md)
   * [5. Neural Networks: Learning](machine-learning/machine-learning/5.-neural-networks-learning.md)
   * [6. Machine Learning System Design](machine-learning/machine-learning/6.-machine-learning-system-design.md)
+  * [7. Support Vector Machine](machine-learning/machine-learning/7.-support-vector-machine.md)
 
 ## Finance / Economics
 
