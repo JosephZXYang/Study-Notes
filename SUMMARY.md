@@ -40,6 +40,7 @@
   * [5. Neural Networks: Learning](machine-learning/machine-learning/5.-neural-networks-learning.md)
   * [6. Machine Learning System Design](machine-learning/machine-learning/6.-machine-learning-system-design.md)
   * [7. Support Vector Machine](machine-learning/machine-learning/7.-support-vector-machine.md)
+  * [8. Unsupervised Learning](machine-learning/machine-learning/8.-unsupervised-learning.md)
 
 ## Finance / Economics
 
