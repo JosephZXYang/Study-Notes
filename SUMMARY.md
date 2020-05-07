@@ -44,6 +44,8 @@
 
 ## Finance / Economics
 
+* [Game Theory](finance-economics/game-theory/README.md)
+  * [1. Introduction and Overview](finance-economics/game-theory/1.-introduction-and-overview.md)
 * [Financial Markets](finance-economics/financial-markets/README.md)
   * [Lesson 1](finance-economics/financial-markets/lecture-1-welcome.md)
   * [Lesson 2](finance-economics/financial-markets/lesson-2.md)
