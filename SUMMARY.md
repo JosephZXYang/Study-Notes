@@ -41,7 +41,7 @@
   * [6. Machine Learning System Design](machine-learning/machine-learning/6.-machine-learning-system-design.md)
   * [7. Support Vector Machine](machine-learning/machine-learning/7.-support-vector-machine.md)
   * [8. Unsupervised Learning](machine-learning/machine-learning/8.-unsupervised-learning.md)
-  * [9. Anomaly Detection](machine-learning/machine-learning/9.-anomaly-detection.md)
+  * [9. Anomaly Detection and Recommender System](machine-learning/machine-learning/9.-anomaly-detection.md)
 
 ## Finance / Economics
 
