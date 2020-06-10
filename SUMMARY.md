@@ -57,3 +57,8 @@
   * [Lesson 7](finance-economics/financial-markets/lesson-7.md)
   * [Lesson 8](finance-economics/financial-markets/lesson-8.md)
 
+## Algorithm
+
+* [Data Structures & Algorithms](algorithm/data-structures-and-algorithms/README.md)
+  * [1. Array](algorithm/data-structures-and-algorithms/1.-array.md)
+
