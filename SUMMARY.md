@@ -29,6 +29,8 @@
   * [25. Server Side Frameworks](the-web-developer-bootcamp/25.-server-side-frameworks.md)
   * [27. API](the-web-developer-bootcamp/27.-api.md)
   * [29. Database](the-web-developer-bootcamp/29.-database.md)
+  * [31. RESTful api](the-web-developer-bootcamp/31.-restful-api.md)
+  * [32. Data Association](the-web-developer-bootcamp/32.-data-association.md)
 
 ## Machine Learning
 
@@ -61,4 +63,5 @@
 
 * [Data Structures & Algorithms](algorithm/data-structures-and-algorithms/README.md)
   * [1. Array](algorithm/data-structures-and-algorithms/1.-array.md)
+  * [2. LinkedList](algorithm/data-structures-and-algorithms/2.-linkedlist.md)
 
