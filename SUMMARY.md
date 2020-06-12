@@ -64,4 +64,5 @@
 * [Data Structures & Algorithms](algorithm/data-structures-and-algorithms/README.md)
   * [1. Array](algorithm/data-structures-and-algorithms/1.-array.md)
   * [2. LinkedList](algorithm/data-structures-and-algorithms/2.-linkedlist.md)
+  * [3. Stack](algorithm/data-structures-and-algorithms/3.-stack.md)
 
