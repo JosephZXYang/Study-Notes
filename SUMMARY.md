@@ -65,4 +65,5 @@
   * [1. Array](algorithm/data-structures-and-algorithms/1.-array.md)
   * [2. LinkedList](algorithm/data-structures-and-algorithms/2.-linkedlist.md)
   * [3. Stack](algorithm/data-structures-and-algorithms/3.-stack.md)
+  * [4. Queue](algorithm/data-structures-and-algorithms/4.-queue.md)
 
