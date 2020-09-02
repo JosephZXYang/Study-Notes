@@ -4,6 +4,8 @@
 
 ## Web App Development
 
+---
+
 * [The Web Developer Bootcamp](the-web-developer-bootcamp/README.md)
   * [1. Introduction to this course](the-web-developer-bootcamp/1.-introduction-to-this-course.md)
   * [2. Introduction to Front-End Development](the-web-developer-bootcamp/2.-introduction-to-front-end-development.md)
@@ -49,6 +51,7 @@
 
 * [Game Theory](finance-economics/game-theory/README.md)
   * [1. Introduction and Overview](finance-economics/game-theory/1.-introduction-and-overview.md)
+  * [2. Mixed Strategies and Nash Equilibrium](finance-economics/game-theory/2.-mixed-strategies-and-nash-equilibrium.md)
 * [Financial Markets](finance-economics/financial-markets/README.md)
   * [Lesson 1](finance-economics/financial-markets/lecture-1-welcome.md)
   * [Lesson 2](finance-economics/financial-markets/lesson-2.md)
